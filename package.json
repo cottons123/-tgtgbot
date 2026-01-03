@@ -1,5 +1,5 @@
 {
-  "name": "polbot",
+  "name": "tgtgbot",
   "version": "1.0.0",
   "description": "Telegram bot to check POL and NFTFan balances",
   "main": "index.js",
